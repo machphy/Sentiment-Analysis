@@ -11,7 +11,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/yourusername/hand-gesture-drawing.git](https://github.com/machphy/sentiment-analysis-)
+git clone https://github.com/machphy/sentiment-analysis-
 cd hand-gesture-drawing
 Install the required packages:
 
